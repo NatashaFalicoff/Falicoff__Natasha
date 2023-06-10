@@ -1,11 +1,11 @@
 # Falicoff__Natasha
 # Curso de programación full stack
 
-## Comisión A o B según corresponda
+## Comisión A 
 
 [Silicon Misiones](https://siliconmisiones.gob.ar/)
 
-Autor: Nombre y Apellido del estudiante
+Autor:  Natasha Falicoff
 
 ## Descripción
 

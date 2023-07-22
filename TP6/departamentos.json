@@ -1,0 +1,27 @@
+{
+    "departamentos": [
+      {
+        "Nombre": "Contabilidad",
+        "Empleados": [
+          { "id_empleado": 10, "nombre": "Juan Segovia" },
+          { "id_empleado": 15, "nombre": "Ramiro Romero" }
+        ]
+      },
+      {
+        "Nombre": "Tecnología",
+        "Empleados": [
+          { "id_empleado": 12, "nombre": "Pablo Richmon", "puesto": "PM" },
+          { "id_empleado": 23, "nombre": "Marta Fernandez", "puesto": "TechLead" },
+          { "id_empleado": 24, "nombre": "Pedro Mendez", "puesto": "FullStack JS Producción" },
+          { "id_empleado": 7, "nombre": "Gabriela Lescano" }
+        ]
+      },
+      {
+        "Nombre": "Comercial",
+        "Empleados": [
+          { "id_empleado": 2, "nombre": "Fabiana Martines" }
+        ]
+      }
+    ]
+  }
+  
